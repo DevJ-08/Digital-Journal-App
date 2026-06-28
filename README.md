@@ -22,3 +22,15 @@ The Digital Journal App allows users to write and save personal journal entries 
 
 ## Learning Outcome
 This project demonstrates basic front-end web development concepts including DOM manipulation, event handling, and responsive user interface design.
+
+## Future Enhancements
+
+* Search journal entries
+* Edit existing entries
+* Dark mode support
+* Export entries to PDF
+* User authentication
+
+## Output
+
+The application allows users to create, store, and manage journal entries with timestamps. Data is stored locally in the browser using Local Storage.
