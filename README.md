@@ -1,11 +1,11 @@
 # Digital Journal App
 
 ## Internship Details
-- Name: Dibyajyoti Palei
-- Intern ID: CITS3229
-- Domain: Full Stack Web Development
+- Name: Nikhil Kumar Puhan
+- Intern ID: CITS3639
+- Domain: Python Programming
 - Organization: CODTECH IT Solutions
-- Duration: 6 Weeks
+- Duration: 4 Weeks
 
 ## Project Overview
 The Digital Journal App allows users to write and save personal journal entries through a simple and user-friendly web interface.
